@@ -34,22 +34,22 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(28).pdf" style="text-decoration:none;">Portrait of Jacques Derrida as a Young Jewish Saint</a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(29).pdf" style="text-decoration:none;">Fromms: How Julius Fromm's Condom Empire Fell to the Nazis</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(30).pdf" style="text-decoration:none;">A Time Out of Joint: A Journey from Nazi Germany to Post-War Britain</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(31).pdf" style="text-decoration:none;">From Catastrophe to Power : Holocaust Survivors and the Emergence of Israel</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(32).pdf" style="text-decoration:none;">Germany's War and the Holocaust</a></b></li>      
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(31).pdf" style="text-decoration:none;">Why This World: A Biography of Clarice Lispector</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(32).pdf" style="text-decoration:none;">The Enigma of Isaac Babel</a></b></li>      
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(33).pdf" style="text-decoration:none;">Golden Harvest: Events at the Periphery of the Holocaust</a></b></li> 
- 
- 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(33).pdf" style="text-decoration:none;">Sydney and Violet: Their Life with T.S. Eliot, Proust, Joyce and the Excruciatingly Irascible Wyndham Lewis</a></b></li> 
  
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(34).pdf" style="text-decoration:none;">The First Holocaust: Jewish Fund Raising Campaigns With Holocaust Claims During And After World War One</a></b></li>                                
-<li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(35).pdf" style="text-decoration:none;">Hegemony and the Holocaust: State Power and Jewish Survival in Occupied Europe</a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(36).pdf" style="text-decoration:none;">Historical Dictionary of the Holocaust</a></b></li>
-        <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(37).pdf" style="text-decoration:none;">Histories of the Holocaust</a></b></li>
+ 
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(34).pdf" style="text-decoration:none;">Too Good to Be True: The Life and Work of Leslie Fiedler</a></b></li>                                
+<li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(35).pdf" style="text-decoration:none;">To the End of the Earth: A History of the Crypto-Jews of New Mexico</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(36).pdf" style="text-decoration:none;">Nuclear Forces: The Making of the Physicist Hans Bethe</a></b></li>
+        <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(37).pdf" style="text-decoration:none;">Dr. Charles David Spivak: A Jewish Immigrant and the American Tuberculosis Movement</a></b></li>
                                 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(38).pdf" style="text-decoration:none;">Hitler and the Nazi Darwinian Worldview: How the Nazi Eugenic Crusade for a Superior Race Caused the Greatest Holocaust in World History </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(39).pdf" style="text-decoration:none;">Hitler's Willing Executioners </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(40).pdf" style="text-decoration:none;">Holocaust and Memory: The Experience of the Holocaust and Its Consequences: An Investigation Based on Personal Narratives</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(38).pdf" style="text-decoration:none;">Philo of Alexandria: An Intellectual Biography </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(39).pdf" style="text-decoration:none;">The Maiden of Ludmir: A Jewish Holy Woman and Her World </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(40).pdf" style="text-decoration:none;">Ben-Gurion: Father of Modern Israel</a></b></li>
                               
 <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(41).pdf" style="text-decoration:none;">Holocaust Angst</a></b></li>
 
