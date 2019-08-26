@@ -51,14 +51,14 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(39).pdf" style="text-decoration:none;">The Maiden of Ludmir: A Jewish Holy Woman and Her World </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(40).pdf" style="text-decoration:none;">Ben-Gurion: Father of Modern Israel</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(41).pdf" style="text-decoration:none;">Holocaust Angst</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(41).pdf" style="text-decoration:none;">Zealot: The Life and Times of Jesus of Nazareth</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(42).pdf" style="text-decoration:none;">Holocaust as Fiction: Bernhard Schlink's "Nazi" Novels and Their Films</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(43).pdf" style="text-decoration:none;">Holocaust Representations in History  </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(44).pdf" style="text-decoration:none;">Holocaust Testimonies : The Ruins of Memory </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(45).pdf" style="text-decoration:none;">Holocaust, Genocide, and the Law</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(46).pdf" style="text-decoration:none;">Holocaust: The Nazi Persecution and Murder of the Jews </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(47).pdf" style="text-decoration:none;">The Holocaust and Genocide: The Betrayal of Humanity</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(42).pdf" style="text-decoration:none;">Roth Unbound: A Writer and His Books</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(43).pdf" style="text-decoration:none;">Jerome Robbins: A Life in Dance </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(44).pdf" style="text-decoration:none;">Straddling Worlds: The Jewish-American Journey of Professor Richard W. Leopold </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(45).pdf" style="text-decoration:none;">A Jewish Philosopher of Baghdad </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(46).pdf" style="text-decoration:none;">Who Was Jesus? Fingerprints of the Christ </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/114-Eye-Opening-Books-About-the-Holocaust/blob/master/jhl(47).pdf" style="text-decoration:none;">Rav Kook: Mystic in a Time of Revolution</a></b></li>
 
 
 
