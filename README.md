@@ -79,7 +79,12 @@
                                 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(61).pdf" style="text-decoration:none;">The Dictionary of Jewish Biography  </a></b></li>                              
 
-                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(62).pdf" style="text-decoration:none;">Maimonides in His World: Portrait of a Mediterranean Thinker </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(63).pdf" style="text-decoration:none;">Rabbi Akiva: Sage of the Talmud </a></b></li>
+        <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(64).pdf" style="text-decoration:none;">Karl Marx: A Biography</a></b></li>
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Jewish-Biographies/blob/master/jhb(65).pdf" style="text-decoration:none;">Einstein: His Space and Times  </a></b></li>                              
+                             
 
 
 
