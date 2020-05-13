@@ -1,8 +1,6 @@
 <table class="vertical-navbox nowraplinks hlist">
 <tbody>
-<tr>
-<td>Part of&nbsp;<a title="Outline of Judaism" href="https://en.wikipedia.org/wiki/Outline_of_Judaism">a series</a>&nbsp;on</td>
-</tr>
+
 <tr>
 <th><a title="Jews" href="https://en.wikipedia.org/wiki/Jews">Jews</a>&nbsp;and&nbsp;<a title="Judaism" href="https://en.wikipedia.org/wiki/Judaism">Judaism</a></th>
 </tr>
